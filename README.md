@@ -2,7 +2,7 @@
 
 A beautifully designed, single-page SaaS landing page built using ReactJS.
 ## 🌐 Live Demo
-👉 [View Live Site](https://your-deployment-url.com)
+👉 [View Live Site](https://landingpage-seven-lime-46.vercel.app/)
 
 ## 📦 Features
 - Fully responsive, modern design
